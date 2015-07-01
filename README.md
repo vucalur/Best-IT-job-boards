@@ -4,6 +4,11 @@ Scanning through IT job search sites can take literally months.
 This document contains a list of most useful resources.  
 Yummie stuff only. No Glassdoor, LinkedIn, etc. - those are too generic.
 
+Inspiration:
+
+  * https://github.com/andreis/interview
+  * https://github.com/h5bp/Front-end-Developer-Interview-Questions
+
 
 ## Table of Contents
 
