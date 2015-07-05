@@ -26,6 +26,11 @@ Inspiration:
  
 ### Location specific
 
+#### UK
+
+  * http://www.itjobswatch.co.uk/  
+  Useful for looking up average salaries in particular technology and location, most popular keywords, etc.
+
 #### USA
 
   * In order to emigrate to USA, you may need a visa (depends on your nationality).  
